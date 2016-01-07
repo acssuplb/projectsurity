@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Console.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vardec/FloatDeclaration.cs">
+    <Files>
+      <File FileName="Vardec/IntDeclaration.cs" Line="108" Column="5" />
+      <File FileName="Vardec/FloatDeclaration.cs" Line="114" Column="3" />
+      <File FileName="Vardec/StringDeclaration.cs" Line="15" Column="1" />
+      <File FileName="Program.cs" Line="27" Column="15" />
+      <File FileName="Comments/CommentModule.cs" Line="41" Column="56" />
+      <File FileName="ClassesAndInterfaces/Constant.cs" Line="39" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
